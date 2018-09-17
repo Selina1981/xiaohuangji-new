@@ -8,3 +8,5 @@ CREATE TABLE `question_and_answers` (
  KEY `time` (`time`),
  KEY `worker` (`worker`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+
